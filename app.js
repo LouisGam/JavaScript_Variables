@@ -14,7 +14,7 @@ lastName = "gambardella";
 age = 62;
 console.log (lastName);
 // Exercise 3
-let language = "English";
+let language = "JavaScript";
 let createdYear = 1995;
 let isCaseSensitive ="true";
 // Exercise 4
